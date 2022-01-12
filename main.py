@@ -1,3 +1,4 @@
 import scripter
+s = scripter.Scripter()
 
-localScripter = scripter.Scripter()
+print(s.account)
